@@ -18,11 +18,7 @@
 ---
 
 <!-- LINKS UTEIS -->
-> Vídeos de Apoio
->> []()<br>
->> []()<br>
 
-<br>
 
 <!-- SEMANA 01 -->
 >&#128311; **Semana 01**: Introdução à mineração de dados e descoberta de conhecimento
@@ -37,26 +33,26 @@
 >> Aula 02 - [Descoberta de conhecimento em bases de dados](https://www.youtube.com/watch?v=61Di3FSRiG8)<br>
 
 <!-- SEMANA 02 -->
->&#128310; **Semana 02**: 
->> Aula 03 - []()<br>
+>&#128310; **Semana 02**: Pré-processamento de dados e redução de dados
+>>> Revisitando Conhecimento
+>> [Introdução à Ciência de Dados - Jupyter Notebook e o Google Colab](https://www.youtube.com/watch?v=ZC8bfSZLl80)<br>
 >
->> Aula 04 - []()<br>
+>> Aula 03 - [Preparação e limpeza dos dados](https://www.youtube.com/watch?v=10kmcTfoxiM)<br>
 >
->> Aula 05 - []()<br>
+>> Aula 04 - [Redução e transformação dos dados](https://www.youtube.com/watch?v=BpsR21apXuM)<br>
+>
+>> Atividades - [Atividades práticas de apoio](https://www.youtube.com/watch?v=mlIpxNRCr4o)<br>
 
 <!-- SEMANA 03 -->
->&#128311; **Semana 03**: 
+>&#128311; **Semana 03**: Análise descritiva de dados
+>> Aula 05 - []()<br>
+>
 >> Aula 06 - []()<br>
 >
 >> Aula 07 - []()<br>
->
->> Aula 08 - []()<br>
 
 <!-- SEMANA 04 -->
->&#128310; **Semana 04**: Tabela Hash
->>> Material Apoio
->> [Estrutura de Dados](https://www.youtube.com/watch?v=qW_yEje9_8U)<br>
->
+>&#128310; **Semana 04**: Métodos de classificação supervisionada
 >> Aula 10 - []()<br>
 >
 >> Aula 11 - []()<br>
@@ -64,32 +60,32 @@
 >> Aula 12 - []()<br>
 
 <!-- SEMANA 05 -->
->&#128311; **Semana 05**: Árvores Binárias de Busca
->> Aula 13 - [Árvores (Conceitos)](https://www.youtube.com/watch?v=cSlBSOZtWtc)<br>
+>&#128311; **Semana 05**: Análise de agrupamento
+>> Aula 13 - []()<br>
 >
->> Aula 14 - [Árvores (Implementações)](https://www.youtube.com/watch?v=1F-qSLrgMsY)<br>
+>> Aula 14 - []()<br>
 >
->> Aula 15 - [Árvores (Continuação)](https://www.youtube.com/watch?v=uum907bCjBw)<br>
+>> Aula 15 - []()<br>
 
 <!-- SEMANA 06 -->
->&#128310; **Semana 06**: Árvores AVL e Grafos
->> Aula 16 - [Árvores AVL](https://www.youtube.com/watch?v=1JKucLqAPZ8)<br>
+>&#128310; **Semana 06**: Análise de associação
+>> Aula 16 - []()<br>
 >
->> Aula 17 - [Grafos](https://www.youtube.com/watch?v=S-5Yrj9zuPQ)<br>
+>> Aula 17 - []()<br>
 >
->> Aula 18 - [Grafos (implementação)](https://www.youtube.com/watch?v=kZKXxWSwLB8)<br>
+>> Aula 18 - []()<br>
 
 <!-- SEMANA 07 -->
->&#128311; **Semana 07**: Aplicações de Grafos - PageRank
->> Aula 19 - [Grafos (busca)](https://www.youtube.com/watch?v=P2dgnvWfnZA)<br>
+>&#128311; **Semana 07**: Detecção de anomalias
+>> Aula 19 - []()<br>
 >
->> Aula 20 - [Grafos (PageRank)](https://www.youtube.com/watch?v=B8I-gvKBwes)<br>
+>> Aula 20 - []()<br>
 >
->> Aula 21 - [PageRank (implementação)](https://www.youtube.com/watch?v=M8fd82dbYS8)<br>
+>> Aula 21 - []()<br>
 
 <!-- SEMANA 08 -->
 >&#128310; **Semana 08**: Revisão
->> Revisão I - [Revisão | Ulisses Martins Dias](https://www.youtube.com/watch?v=jKZiti4ONv0)<br>
+>> Revisão I - []()<br>
 
 
 ---
