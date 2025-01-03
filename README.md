@@ -45,47 +45,56 @@
 
 <!-- SEMANA 03 -->
 >&#128311; **Semana 03**: Análise descritiva de dados
->> Aula 05 - []()<br>
+>>> Revisitando Conhecimento
+>> [Estatística - Medidas de posição e dispersão](https://www.youtube.com/watch?v=UYxzHu6UHA8&t=1s)<br>
 >
->> Aula 06 - []()<br>
+>> Aula 05 - [Análise descritiva de dados](https://www.youtube.com/watch?v=42ArF0YCWm8)<br>
 >
->> Aula 07 - []()<br>
+>> Aula 06 - [Exemplos de análise de dados](https://www.youtube.com/watch?v=wQ8aVVF3Dgo)<br>
+>
+>> Exercicio de Apoio Sem03 - [Atividades práticas de apoio](https://www.youtube.com/watch?v=mAp_8JHLIvE)<br>
 
 <!-- SEMANA 04 -->
 >&#128310; **Semana 04**: Métodos de classificação supervisionada
->> Aula 10 - []()<br>
+>>> Revisitando Conhecimento
+>> [Estatística - Teoremas de probabilidade](https://www.youtube.com/watch?v=Q6PQkFYiCRs)<br>
 >
+>> Aula 07 - [Classificação de dados](https://www.youtube.com/watch?v=MU14rYb3l8c)<br>
+>
+>> Aula 08 - [Algoritmos de classificação](https://www.youtube.com/watch?v=de_lvW0VMMw)<br>
+>
+>> Exercicio de Apoio Sem04 - [Atividades práticas de apoio](https://www.youtube.com/watch?v=A-v9Rqv_TP0)<br>
+
+<!-- SEMANA 05 -->
+>&#128311; **Semana 05**: Análise de agrupamento
+>>> Revisitando Conhecimento
+>> [Mineração de Dados - Classificação de dados](https://www.youtube.com/watch?v=MU14rYb3l8c)<br>
+>
+>> Aula 09 - [Agrupamento de dados](https://www.youtube.com/watch?v=VpN7WlADiJE)<br>
+>
+>> Aula 10 - [Algoritmos de agrupamento](https://www.youtube.com/watch?v=B2ytgwqDvwY)<br>
+>
+>> Exercicio de Apoio Sem05 - [Atividades práticas de apoio](https://www.youtube.com/watch?v=0xoaOZ9RcFk)<br>
+
+<!-- SEMANA 06 -->
+>&#128310; **Semana 06**: Análise de associação
 >> Aula 11 - []()<br>
 >
 >> Aula 12 - []()<br>
 
-<!-- SEMANA 05 -->
->&#128311; **Semana 05**: Análise de agrupamento
->> Aula 13 - []()<br>
->
->> Aula 14 - []()<br>
->
->> Aula 15 - []()<br>
-
-<!-- SEMANA 06 -->
->&#128310; **Semana 06**: Análise de associação
->> Aula 16 - []()<br>
->
->> Aula 17 - []()<br>
->
->> Aula 18 - []()<br>
 
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Detecção de anomalias
->> Aula 19 - []()<br>
+>> Aula 13 - []()<br>
 >
->> Aula 20 - []()<br>
->
->> Aula 21 - []()<br>
+>> Aula 14 - []()<br>
+
 
 <!-- SEMANA 08 -->
 >&#128310; **Semana 08**: Revisão
->> Revisão I - []()<br>
+>> Vídeo de apoio - [Comparando 9 algoritmos de Machine Learning](https://www.youtube.com/watch?v=bgvjq-JPzZY)<br>
+>
+>> Revisão - [Webconferência de Revisão | Mineração de Dados](https://www.youtube.com/watch?v=6mgiwZmOhWI)<br>
 
 
 ---
